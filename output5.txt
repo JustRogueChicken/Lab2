@@ -1,0 +1,20 @@
+Avenger:Endgame
+200000
+Cinema 1 2 3
+275
+300
+GodzillaxKong
+120000
+Cinema 2 3
+150
+100
+Loki
+80000
+Cinema 3
+180
+200
+StarTrek: beyond
+200000
+Cinema 2 3
+200
+350
